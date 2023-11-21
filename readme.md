@@ -4,11 +4,7 @@ A JavaFX project that allows a user to play minesweeper via a GUI, and has a sol
 
 ## Description
 
-A GUI is made from JavaFX and solve/ hint buttons are provided via a backtracker solution 
-
-## Getting Started
-
-### Dependencies
+A GUI is made from JavaFX (along with a CLI based version) and solve/ hint buttons are provided via a backtracker algorithm.
 
 ### Dependencies
 
@@ -16,21 +12,14 @@ A GUI is made from JavaFX and solve/ hint buttons are provided via a backtracker
 
 * **JavaFX Library:** Ensure that JavaFX is included in your JDK installation.
 
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 ### Installing
 
 * You may clone this repo on your local machine
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Run the MinesweeperGUI.java file to play the GUI version of minesweeper.
+* Run the MinesweeperCLI.java file to play the CLI version of minesweeper.
 
 ## Authors
 
